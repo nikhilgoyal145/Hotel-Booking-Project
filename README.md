@@ -13,14 +13,14 @@ SQL became a standard of the American National Standards Institute (ANSI) in 198
 
 **What is JDBC?**
 
-**JDBC stands for Java Database Connectivity, which is a standard Java API for database-independent connectivity between the Java programming language and a wide range of databases.
+**JDBC stands for Java Database Connectivity, which is a standard Java API for database-independent connectivity between the Java programming language and a wide range of databases.**
 
-**The JDBC library includes APIs for each of the tasks mentioned below that are commonly associated with database usage.
+**The JDBC library includes APIs for each of the tasks mentioned below that are commonly associated with database usage.**
 
-**1.Making a connection to a database.
+**1.Making a connection to a database.**
 
-**2.Creating SQL or MySQL statements.
+**2.Creating SQL or MySQL statements.**
 
 **3.Executing SQL or MySQL queries in the database.**
 
-**4.Viewing & Modifying the resulting records.***
+**4.Viewing & Modifying the resulting records.**
